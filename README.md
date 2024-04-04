@@ -1,5 +1,6 @@
 FLOWER RECOGNITION USING CNN
 
+
 Recognizing flowers using Convolutional Neural Networks (CNNs) is a common task in computer vision and machine learning. CNNs are particularly well-suited for image recognition tasks due to their ability to automatically learn features from the data. Here's a basic outline of how you can approach flower recognition using CNNs:
 
 1)Data Collection: Gather a dataset of flower images. You can use existing datasets like the Flower Recognition dataset available on platforms like Kaggle or create your own dataset by collecting images from the web or capturing them yourself.
